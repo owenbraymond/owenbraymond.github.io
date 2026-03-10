@@ -1,12 +1,10 @@
-
-# Academic CV Homepage
-
-```markdown
 ---
 layout: default
 title: Home
 ---
 
+
+```markdown
 # Welcome
 
 I'm a Linguistics MSc student at the University of Edinburgh's [School of Philosophy, Psychology & Language Sciences](https://ppls.ed.ac.uk/), specializing in the Phonetics research pathway. My coursework here focuses on the intersection of phonetics, speech science, and aphasiology, with a particular focus on how phonetic knowledge is translated into motor action.
