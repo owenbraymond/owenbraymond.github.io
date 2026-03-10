@@ -1,3 +1,14 @@
-theme: jekyll-theme-minimal
-title: Owen Raymond
-description: Bookmark this to keep an eye on my project updates!
+title: Your Name
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  MSc Linguistics student at the University of Edinburgh. 
+  Interested in phonetics, neurolinguistics, and clinical applications.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yourusername.github.io" # the base hostname & protocol for your site
+twitter_username: yourhandle
+github_username:  yourusername
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
