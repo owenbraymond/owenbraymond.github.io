@@ -16,9 +16,9 @@ I'm a Linguistics MSc student at the University of Edinburgh's [School of Philos
 
 ## Contact
 
-- Email: (O.B.Raymond@sms.ac.ed.uk)[mailto:O.B.Raymond@sms.ac.ed.uk]
-- LinkedIn: (owenraymond)[https://www.linkedin.com/in/owenraymond/]
-- GitHub: (owenbraymond)[https://github.com/owenbraymond/]
+- Email: [O.B.Raymond@sms.ac.ed.uk](mailto:O.B.Raymond@sms.ac.ed.uk)
+- LinkedIn: [owenraymond](https://www.linkedin.com/in/owenraymond/)
+- GitHub: [owenbraymond](https://github.com/owenbraymond/)
 
 ---
 
